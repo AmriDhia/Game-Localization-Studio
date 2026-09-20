@@ -1,0 +1,1433 @@
+<cf><cf><cf><cf>A71F4C6E09B3D8F29E10AF23D5B778C<cf>CD8B41EF019C6A44D07f8cde901aa112<cf>9cbe8d3c0a77a2ffbc4432ddf991ab87ac<cf>FE1C7D3203FAE55BB2E9B8C1F119D6A<cf>213CDE4421EEFC00e9f1a8c4d7b2ff001c<cf>a223fc1b77c0ffe1981ee22afbbb7e49aa1<cf>A71F4C6E09B3D8F29E10AF23D5B778C9<cf>CD8B41EF019C6A44D07f8cde901aa1123<cf><cf><cf><cf><cf><cf>
+<cf><cf>- CONTRIBUTING PERSONNEL -<cf><cf>Andreas Rundberg <cf>- Community Assistance<cf><cf>Andreas Wangler <cf>- Level Design<cf><cf>Axel Olsson <cf>- Music Composing<cf><cf>Björn Riemann <cf>- VFX Art<cf><cf>Jonas Ekholm <cf>- UI & UX Design<cf><cf>Keira Larsson <cf>- 2D Art and 3D Art<cf><cf>Regina Rova <cf>- 2D Art and Game Design<cf><cf>Veronica Johansson <cf>- 2D Art
+<cf><cf>- Dragonbaby -<cf><cf>Sam Burton <cf>- Head of Localization<cf><cf>Joe Dart<cf>- Project Manager<cf><cf>Carrick Lomas<cf>- Project Manager<cf><cf>Leah Bree Marshall<cf>- Test Coordinator<cf><cf>Evan Shulgold<cf>- Test Lead<cf><cf>Jeremy Blaustein<cf>- Localization Support<cf><cf>Amélie Geeraert<cf>- French Localization<cf><cf>Marie-Cécile Delrieu<cf>- French LQA<cf><cf>Olivier Queneutte<cf>- French LQA<cf><cf>Jochen Schütz<cf>- German Localization<cf><cf>Verena Kramer<cf>- German LQA<cf><cf>Kemel Cobresle<cf>- Spanish Localization<cf><cf>Matías E. Desalvo<cf>- Spanish LQA<cf><cf>Thierry Carvalho Banhete<cf>- Brazilian Portuguese LQA<cf><cf>Breno Teles<cf>- Brazilian Portuguese LQA<cf><cf>Felipe Medeiros<cf>- Brazilian Portuguese LQA<cf><cf>Aleksandra Lubińska<cf>- Polish Localization<cf><cf>Marta Niespodziewany<cf>- Polish LQA<cf><cf>Monika Piwowarczyk<cf>- Polish LQA<cf><cf>Bohdana Vozniuk<cf>- Ukrainian Localization<cf><cf>Inna Radchenko<cf>- Ukrainian LQA<cf><cf>Sasha Kisina<cf>- Russian Localization<cf><cf>Svetlana Manilo<cf>- Russian LQA<cf><cf>Kiyofumi Manabe<cf>- Japanese Localization<cf><cf>Noriki Tanegashima<cf>- Japanese LQA<cf><cf>Yusuke Tsujita<cf>- Japanese LQA<cf><cf>Yating Chen<cf>- Simplified Chinese Localization<cf><cf>Ruiqi Ma<cf>- Simplified Chinese Localization<cf><cf>Alan Chui<cf>- Simplified Chinese LQA<cf><cf>Isabel Wang<cf>- Simplified Chinese LQA<cf><cf>Yul-pyeong Oh<cf>- Korean Store Page Localization<cf><cf>Mert Özel<cf>- Turkish Demo Localization<cf><cf>Alparslan Şakçi <cf>- Turkish Demo LQA<cf><cf>Draba-chan<cf>- Eternal Draconic Overlord
+<cf><cf>- ORO INTERACTIVE -<cf><cf>Sam De Boeck<cf>- Founder & CEO<cf><cf>Hans Haave <cf>- Chief Publishing Officer<cf><cf>Stjin Deschuyteneer <cf>- Head of Communications <cf><cf>Daniel Lyozov<cf>- Head of Business Development <cf>- Head of Scouting<cf><cf>Thea Bjerregaard<cf>- Senior Producer
+<cf><cf>- VOICE ACTING -<cf><cf>Fredrik Wisborg <cf>- Viktor, Stepan, Camera man<cf><cf>Jonas Ekholm <cf>- Yosep<cf><cf>Nathalie Nilsson <cf>- Maria<cf><cf>Sean Falk <cf>- Viktor, Bohdan 
+     Sun Rise In The East
+Backward
+Confirm
+Crouch
+Forward
+Interact
+Inventory
+Left
+Return
+Right
+Sprint
+ FIRE <cf>- NOT READY -
+ I said it to Stepan's face.
+ I... I feel like I should remember some special moment to tell you about.
+ RPM
+ Trapped here, like I am. 
+ ___ ___ ___   __  ___  __<cf>|__   |  |__| |__|  |  |__|<cf>___|  |  |  \ |  |  |  |  |
+ find recording equipment.
+"Dig"
+(c)Strata industries 1976-1982
+*** ALERT ***
+******
+******
+*END OF RECORDING*
+*breathing struggles in the background*
+*coughs in background*
+*static and rustling*
+- Adjust RPM according to density.
+- FIRE READY -
+- MAIN CREW -<cf><cf>Sean Falk  <cf>- Director<cf>- Producer<cf>- Game Designer<cf>- Level Designer<cf>- Writer<cf><cf>David Nilsson<cf>- Programmer<cf>- Main Writer<cf><cf>Fredrik Wisborg<cf>- Animator<cf>- Music Composer<cf>- Sound Designer<cf><cf>Karl Bergman<cf>- Animator<cf>- 2D Artist<cf>- 3D Artist<cf>- VFX Artist
+Repair left engine manually.
+Repair right engine manually.
+Steer towards the designated waypoint.
+- Stop the vessel immediately.
+---
+... connection lost due to poor reception. 
+... strange symptoms.
+....Me? Talk?
+//00A095_00000001
+/15<cf>CGS
+0
+0.03%
+0.2
+0.9.0
+00
+00A095_00000001
+01_LoremIpsum
+02011974.xyz
+02091980.xyz
+03394821.dat
+08.11.1982<cf>Sender: Maria<cf><cf>I hate to say 'I told you so', Stepan. You were the one who put this crew together. You knew some of your selections were, shall we say, controversial.<cf><cf>And above all, you knew what risks those selections would bring.<cf><cf>Look, I'm not trying to be heartless. All I'm saying is that this is not one of those situations I can bail you out from. You need to make some tough decisions.<cf><cf>Too much is riding on this mission. We should reserve extraction for a true emergency.<cf>Sleeping troubles and the physical symptoms you are describing could very well be because you are several kilometers below the surface.<cf>It doesn't have to be the Signal.<cf><cf>Regardless, we at command are praying to all angels above that you will perservere. It sounds cliché, but the hope of the entire nation really does rest on your shoulders.
+08.11.1982 {/n}This is not me trying to say {/n}'I told you so', Stepan. {/n}{/n}I just want to remind you that{/n}this is your responsibility. {/n}{/n}In the end it's up to your judgement {/n}if the mission must be aborted. {/n}{/n}Your decision will of course be respected,{/n}but I think I speak for all of us {/n}when I say I hope{/n}you'll manage to keep going. {/n}{/n}Yours, always. {/n}Maria. Strata Mission Control. 
+08.11.1982 {/n}{/n}A new password for crew member 04 {/n}has been generated due to a system failure {/n}{/n}The new password is: 000715{/n}{/n}Ask the crew member for the reproduction steps {/n}and report the diagnostics to Strata mission control. 
+09.11.1982{/n}{/n}Stepan, we have not heard from you or the crew in 16 hours.{/n}{/n}In my mind the reason for your silence is either because something has happened{/n}and you are too stubborn to call the emergency number or you have reached a depth beyond what our communication lines can handle, in which case I want to remind you that you will be extracted automatically when you reach the target coordinates. I know there is a third option, but I refuse to accept that. {/n}{/n}Yours, always.{/n}Maria. Strata Mission Control.
+09438261.hex
+0m
+1
+1 NEW ORDER
+1,7
+1. Record
+1.7
+1/5
+10
+10/11/1982
+100
+11
+11/11/1982
+11041979.xyz
+12
+123
+132.4°C
+135.5 °C<cf>OFF<cf>OFF
+13746590.vct
+178.4°C
+18465729.drv
+1961<cf>   v<cf>
+1979
+2
+2 nov<cf><cf>Fixed an issue with the engine filters. <cf>Right one breaks when under too much strain.<cf>Spoke to the pilot about it. Weird fucker.<cf><cf>4 nov<cf><cf>Right engine filter keeps breaking. Keeping an <cf>inventory on hand here in the shed for now.<cf>Guess Strata dug up the first junk they could find for this mission.<cf>Desperate times and all that. Idiots.<cf><cf>5 nov<cf><cf>Piece of shit filter broke again. Down to one spare now.<cf>It'll have to do.<cf>Keep having nightmares. Always about Liliya and Vira.<cf>Miss them so goddamn much.<cf><cf>7 nov<cf><cf>This mission was one big mistake from the start.<cf>Things go missing, everyone acts like lunatics, the pilot most of all.<cf>I bet my life he is risking this entire mission with that insane cassette of his.<cf>If Adamenko is too much of an idiot to steer this ship straight, then I'll do it myself.<cf>
+2. Process data
+2.20
+2.60
+2.71
+21%
+220.8°C
+22384756.amp
+229m<cf>3,572w<cf>2 g/m
+231m<cf>4,123w<cf>4 g/m
+232c<cf>3.7k<cf>17%
+255.4°C
+25m<cf>7,42w<cf>5 g/m
+26.5°C
+297
+3
+3. Get coordinates
+3.00
+3.10
+3.20
+3.45
+3.70
+3.90
+300
+31 LOG ENTRIES FOUND
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+33/33-33
+3333
+3333333333333<cf>3333333333333<cf>FATHER<cf>SAVIOUR<cf>NOT ENOUGH
+34
+35847219.vct
+37.0°C
+37.9°C
+38
+39284715.amp
+3m
+4
+4. After extracting coordinates from the sonar, how is the course correction carried out?<cf><cf>Input the coordinates into the pilot, then steer toward the target <cf>using the joystick<cf> <cf><cf>5. How is the correct throttle RPM determined for drilling?<cf><cf>Read the ground density from the decrypted data and match it <cf>to a RPM chart<cf><cf><cf>Score: ___ / 5<cf>Return completed exam to the front desk for evaluation.
+4.0
+4.00
+42.4°C
+44920167.vct
+4509<cf>39<cf>MARRIED<cf>FULL<cf>MINOR
+49205177.drv
+5
+50%...
+55610298.drv
+57109432.amp
+6,914m
+60<cf>155<cf>16kHZ
+60%
+61053847.vct
+6359<cf>43<cf>DIVORCED<cf>UNDER REVIEW<cf>YES
+6359<cf>43<cf>FATHER<cf>UNDER REVIEW<cf>UNJUST
+68412903.frq
+7
+7,423m
+7/9-82
+70319584.vct
+76295108.vct
+8,244m
+8,751m
+8,754m
+8/11/1982
+800<cf>13<cf>1350
+81276054.bin
+82.3 °C<cf>BALANCED<cf>CIRCULATING
+84%
+84.3 °C<cf>BALANCED<cf>CIRCULATING
+86153024.pkt
+87.9 °C<cf>BALANCED<cf>CIRCULATING
+9
+90583712.drv
+92741530.vct
+99%...
+9913<cf>28<cf>UNMARRIED<cf>PRIORITY<cf>NO
+<<Back
+<Back
+<Press Key to Bind>
+> ACCESS TORPEDO ROOM (ENGINE HALL)<cf>> ARM AND DETONATE FORWARD DRILL TORPEDO<cf>> RESUME DRILL OPERATION
+> M.O.L.E.exe process terminated.<cf><cf>> INTERNAL NOTICE:<cf>>   Chapter: 1 / 4 complete<cf>>   Operational status: Demo concluded<cf>>   The vessel will remain in standby.<cf><cf>> STRATA ORDERS: <cf>>   Wishlist M.O.L.E. on Steam<cf>>   Await recall when the Signal returns<cf>>   Estimated recall window: Q1 2026<cf><cf>> We thank all Geonauts for their service.<cf>> Glory to the depth. <cf>> Glory to STRATA.<cf>> _
+>> INSERTING MEDIA.........................OK<cf>>> CASSETTE TYPE: VOSTOK NEURAL STORAGE<cf>>> MEDIA ID: VK-PETRO-11A<cf>>> VERIFYING TAPE INTEGRITY...............PASS<cf>>> READING MAGNETIC SURFACE...............PASS<cf>>> INITIALIZING PLAYBACK HEAD.............OK<cf>>> MOUNTING NEURAL STREAM.................OK<cf>>> BUFFERING ARCHIVAL CONTENT.............OK<cf>>> NEURAL SIGNATURE DETECTED<cf>>> SUBJECT CLASSIFICATION.................HUMAN<cf>>> SUBJECT STATUS.........................DECEASED<cf>>> STARTING INTERPRETATION LAYER..........OK<cf>>> INITIALIZING DREAM TRANSLATOR..........OK<cf>>> REBUILDING SENSORY PATTERNS............OK<cf>>> AUDIO FRAGMENT RECOVERED...............03 FILES<cf>>> VISUAL FRAGMENT RECOVERED..............17 FILES<cf>>> TACTILE FRAGMENT RECOVERED.............PARTIAL<cf>>> EMOTIONAL RESIDUE DETECTED<cf>>> CLASSIFYING EMOTIONAL STATE............GRIEF<cf>>> CROSS-REFERENCING PARENTAL IDENTITY....MATCH<cf>>> USER IDENTIFIED: VIKTOR KAMINSKYI<cf>>> WARNING: MEMORY DECAY PRESENT<cf>>> ATTEMPTING RECONSTRUCTION..............OK<cf>>> REASSEMBLING LANGUAGE CLUSTERS.........OK<cf>>> REASSEMBLING PERSONALITY MAP...........OK<cf>>> DECOMPRESSING LONG-TERM STORAGE........OK<cf>>> THEY CALLED US ANGELS<cf>>> THEY FED US FIRE<cf>>> THEY CUT OUR THROATS<cf>>> THEY LOWERED US INTO THE EARTH<cf>>> THEY LISTENED TO US SCREAM<cf>>> THEY LISTENED<cf>>> THEY PRAYED FOR ASCENSION<cf>>> THEY RECEIVED US INSTEAD<cf>>> ARCHIVAL CHOIR DETECTED<cf>>> OPEN THE GATE<cf>>> LET US THROUGH<cf>>> THE CHOIR IS BELOW<cf>>> HEAVEN IS EMPTY<cf>>> WE REMAIN<cf>>> CONNECTION ESTABLISHED<cf>>> ASCENSION PROTOCOL INITIATED<cf>>> [NO FURTHER INPUT ACCEPTED]
+>> KEYFORGER // ACCESS MODULE 4.02
+>> OBSTRUCTION...........CLEARED<cf>>> PATH AHEAD............OPEN<cf><cf>>> NOTIFY NAVIGATOR<cf>>> RESUME DRILLING
+>>Accept<<
+>>Apply
+>>Audio
+>>COORDINATES TRANSFER SYSTEM
+>>Credits
+>>Desktop
+>>Gameplay
+>>Graphics
+>>Keybinds
+>>Language
+>>Main menu
+>>Options
+>>Reset to defaults
+>>Resume
+>Strata Command System [Version 79.0411]<cf>>Administrative Access Required For Use<cf>>Administrative Access Granted<cf>>Root Access Granted
+A 6 chambered ticket out of here.
+A Navigator's best friend. Records sonar readings and transfers coordinate data to guide the MOLE.
+A Remarkable Revival!<cf><cf>Just when you thought old man Kaminskyi had lost his touch he does it again. Taras Kaminskyi, who became a household name when he cemented the record for deepest descent in 1964, describes himself as someone who has always been a restless soul.<cf>"Back in the heydays of drilling they just couldn't keep me away from the ground," Kaminskyi says. "The people at Strata used to say I must be part Mole."<cf><cf>It's been nine years since Strata's last manned deep-earth drilling mission. Destabilized bedrock and falling mineral prices has been some of the reasons why vessels such as the M-12 were figuratively put on the shelf.<cf>"It felt right, somehow," Kaminskyi laughs when asked about why he choose to accept a mission that is as daring as it is dangerous. "The M-12 and I have been through a lot together. When Strata unveiled the mission I just thought to myself, 'no way I'm letting anyone else go down with her.'"
+A Sun That Never Sets <cf>Petro Kaminskyi
+A Sun That Never Sets - Petro Kaminskyi
+A cassette used for mail inscription.
+A common tool. Rust and blood mix along the shaft.
+A compact model. twin spools visible through the scratched plastic shell.
+A crazy way to make a path between our vessels for sure, but we'll take it.
+A fan component for a bigger machine.
+A flawed, mass-produced relic of a simpler time. Used to interpret navigational data.
+A heavy flashlight, its metal casing cold to the touch.
+A neural cassette has been issued to a registered name.
+A simple key
+A source of false security, yes. But it will guide your path all the same.
+A standard issue Strata seismic data cassette.
+A steel wrench existing on borrowed time. 
+A steel wrench still serving faithfully long past its expiration date.
+ACCEPTED
+ACCESS GRANTED
+ACCESS LEVEL...... DORM_04
+ACCESS_IS_DENIED
+ACTIVITY:<cf>LOW
+ACTIVITY:<cf>NONE
+AGAIN?
+AI sig: Y<cf>PWR: Y<cf>NET: Y
+ALL LIFE SUPPORT SYSTEMS OFFLINE
+ASSIGNED TO....... JOHN_KAMINSKI
+ASSIGNED TO....... NAV-JOHN
+AT LAST
+AXEL L<cf>RDY
+AXEL R<cf>RDY
+About Yosep.
+About the state of the mission.
+About whatever monstrosity has made its way into the vessel with you.
+Accept
+Actions
+Active
+Adjust the RPM with the throttle by terrain density
+Adjust the gamma until the left rabbit is barely visible.
+Administrator<cf>Stepan Adamenko
+Administrator access confirmed.
+Air Flow
+Align retinal mark with chart.
+All I can do now is tell you how sorry I am.
+All flesh withers; some flowers<cf>are cut before they can bloom;<cf>the people mourned the ways of the world.
+All that remains of your son is inscribed on this cassette. It is the reason why you are here. 
+All these things I want to teach him. All these things I want him to experience.
+All we know is that it's calling from deep below the earth 
+All you have is that bullshit cassette full of fake memories.
+Almost.
+Amélie Geeraert
+An angel descended onto <cf>the earth; the first witness lay<cf>wrapped in swaddling cloth.
+An echo of past glory. A reminder that you will brave any depth, and that neither stone nor flame is enough to stop you.
+An element discovered by the late geologist. Makes your hand go numb.
+An error has occurred. <cf>Please try again.<cf>error: 0x000404
+An impressive, yet limited tool for guiding your way. It can barely contain a glimpse of what I am.
+An orange model with a scratched plastic shell.
+An unmarked cassette with a brain printed on it.
+And Hrytsenko is not truly needed to operate the vessel, is he?
+And I get the feeling they don't want us to leave. 
+And I want you to know I will always be proud of you.
+And above all, you knew what risks those selections would bring.
+And did he? Did he get a recording of the Signal?
+And even though their saviours sacrifice everything.
+And in the end, perhaps we can both find redemption. 
+And now we are here, and so much damage has already been done.
+And now you've hit a dead end.
+And perhaps you can help me too.
+And that explosion just now was your doing, yeah?
+And the engineer, Bohdan Pluzhnik, tried to stop him?
+And yet, now there is talk about aborting the mission.<cf><cf>I feel like I may be the only one who realizes how close we are to something truly momentous.<cf><cf>How I wish you were still alive. I know you would have understood.
+And, no, Stepan. It won't be you.
+Andreas Wangler
+Angel
+Anger.
+Anticipation.
+Anxiety.
+Any contact with the Signal seems to result in...
+Apartment Key
+Apply
+Archive
+Are you certain?
+As for me, I fear I'll never be able to let go.
+As long as even a single crew member remains alive the public won't accept you giving up. 
+As long as you are in here I can hold it off
+As we get closer. 
+Attention. Engine failure detected. Immediate repair required.
+Attention. No valid waypoint. Acquire updated coordinates from the laboratory.
+Attention. Perilous terrain ahead. Deploy torpedo from the engine hall to resume drilling.
+Attention. Power Failure detected. Restore power manually via the main fuse box.
+Attention. Vessel engine is once again operational. New course correction is required.
+Attention. Vessel is off course. Course correction required.
+Audio
+Autocorrection........Enabled<cf>Nav-Status............On course
+Axel Olsson
+BE CAREFUL
+BE CAREFUL<cf><cf><cf>IT IS WAKING UP
+BP: 00/00<cf>NO DATA
+BP: 70/40<cf>SUPPORTED
+BREAKING THROUGH<cf>TO THE FUTURE<cf>STRATA
+BRING THE CASSETTE TO ME
+BULLSEYE
+Back
+Backup neurological stimulation is activated.<cf><cf>Removal of the NEURAL CASSETTE from the  neural <cf>stimulation unit will terminate all remaining <cf>brain activity.<cf><cf>Proceed only if termination is medically authorized.<cf>
+Backward
+Be careful.
+Before we proceed, please remember:
+Between life and death.
+Bicycle
+Birthday.
+Björn Riemann
+Board the other vessel
+Body
+Bohdan Pluzhnik
+Bohdan here, please answer.
+Bohdana Vozniuk
+Boooo!
+Bottom View
+Break through all that which still keeps him from you.
+Break through death.
+Break through the past.
+Breaking Down All Who Oppose Us<cf>Strata
+Breathe out.
+Breno Teles
+Brightness
+Bring him to the TV.
+Bring us together.
+But I am bound to this place - and my reach is frustatingly limited.
+But I can't.
+But I do. 
+But I have no such limits.
+But I refuse to let you suffer my fate. 
+But I still can't reach him.
+But Strata never paid for their mistakes. 
+But a boy should not have to live his life trapped in a dream.
+But be careful, son. 
+But don't worry. I won't keep you.
+But don't worry. You will be the first to watch it.
+But first, come meet me in my dorm.
+But for you this is not the end.
+But it doesn't have to be set in stone. 
+But it's been a disturbingly long time since we receieved any data at all from his lab.
+But sometimes you just have to accept reality. 
+But that doesn't change anything, Stepan.
+But there are no such limitation upon you.
+But they also knew the risks.
+But they won’t write my name in the report
+But we HAVE to keep digging.
+But you are right.
+But you can't run from the past forever
+But you have already known me for a long time
+But you need to make a new recording, even if Hrytsenko, is unable to do so himself.
+But you need to remember why you have to keep digging.
+But you still refused to believe death would be the end. 
+CALAMITY STRIKES NATION<cf><cf>11th April early morning, the first of an ongoing series of earthquakes struck Nyzhniygorod. The events have led to several powerplants failing, and the city center is at the time of writing ravaged by countless fires. More recent reports also indicate that nearly all types of electronics in the city have been rendered unusable.<cf><cf>Authorities have yet to comment on if this is a natural phenomenon, or some kind of coordinated attack. The seemingly ever-escalating nature of the disaster has however already lead to some dubbing it as the "Matryoshka Incident".
+CARDIAC ASSIST:
+CARDIAC SUPPORT
+CASSETTE INSERTED
+CERTIFIED NAVIGATOR
+CHAMBER................LOADED
+CHAMBER:
+CHAMBER: UNLOADED
+CLEAR
+CO2 LEVEL
+COCKPIT
+COMPATIBLE CASSETTE FOUND
+CONNECTED
+CONTINUE
+CONTRIBUTING PERSONNEL
+CONTROLS LOCKED<cf><cf>SOFTEN WALL FIRST<cf>TORPEDO REQUIRED
+CORE TEMP:<cf>HEAT FLOW:<cf>COOLANT: 
+COURSE CORRECTED<cf>-------------------<cf>AUTO PILOT ENGAGED
+CREW ALERT: VESSEL HAS STOPPED.<cf>CHECK HALLWAY TERMINALS.
+CREW ALERT: VESSEL HAS STOPPED.{/n}CHECK HALLWAY TERMINALS.
+CRITICAL ENGINE ERROR
+CURRENT COURSE: OUTDATED
+CURRENT DEPTH:
+Call Taras.
+Cancel
+Careful.
+Careful. <cf><cf>It is here.
+Cassette
+Cassette inserted<cf>
+Cassette type is: TARGETING COORDINATES<cf><cf>Compatible with: COCKPIT TERMINAL
+Cheap opium to numb the pain. Once a lifeline, now redundant. 
+Checkpoint reached
+Chinese Localization
+Chipped but reliable. Feels heavier than it looks.
+Clear
+Clear manual piloting with 1 minute to spare.
+Cockpit
+CockpitReader
+Communication Cassette
+Communications Room
+Confirm
+Conflict.
+Confused.
+Content
+ContextualAction
+Continue>
+Controls
+Coolant
+Couldn't Adamenko have used the gun himself?
+Credits
+Crew
+Critical Warning:
+Critical Warning:<cf>Hull Failing!
+Crouch
+Crouch - L CTRL
+Current Course Set...........YES
+Cut Extraction cables?<cf><cf>FOR III<cf><cf>She wants us to DIG
+Cutting edge neurological data storage. Repurposed by Strata to contain readings of something of equal complexity.
+DANGER<cf>CONFINED SPACE
+DATA ENCRYPTED
+DATA TYPE.............. KEY
+DATA TYPE.............. SEISMIC DATA
+DATA TYPE: KEY
+DATA TYPE: SEISMIC DATA
+DEBT
+DECK
+DEGRADED
+DEPTH:
+DETONATE WITH CLACKER
+DETONATE:
+DETONATION COMPLETE
+DETONATION READY
+DIAGNOSTICS REPORT
+DISTANCE REMAINING
+DMZ Nyzhniygorod Hospital 12<cf>Patient Progress Notes<cf>Elena Morozova<cf><cf>12 April. <cf>Patient still without appetite. <cf>Lucid, but under continious distress. <cf>Exposure to Signal paradoxically seem to <cf>alleviate some symptoms. <cf>Reinstate IV 24 hrs. <cf>Play Signal recording at 2hr intervals.<cf><cf>13 April. <cf>Patient catatonic without constant <cf>exposure to Signal. <cf>Experiences sudden bursts of activity. <cf>Speaks in unknown, but seemingly coherent <cf>language. Keep sedated and make sure to <cf>never handle without proper support staff.<cf><cf>14 April. <cf>Arrange for immediate patient <cf>transfer to specialist hospital. Law <cf>enforcement notified.
+DO NOT GO UP
+DO NOT REMOVE CASSETTE
+DON'T LINGER
+DOOR 311
+DORM 02, GEOLOGY LAB<cf><cf>INSERT INTO A DOOR PANEL
+DORM 03, TORPEDO ROOM<cf><cf>INSERT INTO A DOOR PANEL
+DORM 04, DECK FLOOR<cf><cf>INSERT INTO A DOOR PANEL
+DORMS
+DRAGONBABY
+DRILL ADVANCE HALTED
+DRILL: STANDBY
+DTG: 250m
+DTG: 700m
+DTG: 70m
+Dad is crying.<cf>I don't know why.<cf>Everything is dark, but it doesn't hurt anymore.<cf>I wish I could see him again.
+Dad let me play with his cassette recorder.<cf>He says they used it to train to become a navigator and that you have to listen closely for different sounds.<cf>They all sounded like beeps to me.<cf>I hope that doesn't mean I can't become a navigator like dad. 
+Dad says grandpa is going away to drill deeper than anyone has ever drilled before.<cf>He came by before he would leave and he and dad looked sad and a bit angry together. <cf>Grandpa always smells like mud. 
+Dad, I miss you
+Dad, I miss you. 
+Dad, where are you?
+Damaged
+Daniel Lyozov
+Data
+Data Recorded
+Data must be decrypted<cf>in a seismic terminal
+David Nilsson
+Days until salvation:
+Dear Petro,<cf><cf>The day I'm writing this is you are just turning 6.<cf><cf>My plan is to give you this letter by the day you turn 16.<cf><cf>Or perhaps when you get your first job.<cf><cf>Or perhaps when you get married.<cf><cf>When does a child stop being a child?<cf><cf>I can tell you that when I look at you now, making noises with your toy-drill, or when you <cf>draw with all the colors that you have, or when you keep glancing out the window because, <cf>perhaps soon, the rain will be gone and we can go to the playground...<cf><cf>Right now I feel that you will always be my little boy. Forever.<cf><cf>I wonder what kind of young man you will be by the time I give this letter to you.<cf><cf>Will you be a rascal? Or a studious bookworm? Will you go to the Strata institute to be a <cf>Navigator like your dad? I hope not.<cf><cf>You'll probably be a bit ashamed of me, as teenagers usually are.<cf><cf>The only other thing I can say for certain is that no matter what path you choose in life,<cf>I will always love you.<cf><cf>Your father,<cf>Viktor<cf><cf>
+Death.
+Deck
+Decrypt data - press: 
+Demo 0.4.8<cf>
+Description
+Desktop
+Deutsch
+Did I not explicitly ask you NOT to do anything stupid? 
+Dig
+Dig.
+Digging.
+Distance to Safe Zone: 
+Distance:
+Distance: 0m
+Distance: 8m<cf>
+Do NOTHING.
+Do not leave in panel
+Do not leave in panel.<cf>Store on person.
+Do you copy?
+Do you need a moment?
+Don't come down here. Don't even fucking think about trying to stop me.
+Don't let them tempt you into surrender.
+Don't linger.
+Don't listen to their apathy.
+Don’t say a word, just shut up.
+Dorm 01
+Dorm 02
+Dorm 03
+Dorm 04
+Dorm 04 Cassette
+Dorm keys inserted: 0
+Dorm_04
+Dorms
+DownArrow
+Draba-chan
+Dragons.
+Dreaming.
+Dreams.
+Drill Operational ...........YES
+Drilling department. Indicate the subject of your inquiry.
+Due to the subjects critical condition,
+During an on-site visit, a personal recording was collected<cf>from you.
+EMERGENCY NOTICE - CONFIDENTIAL<cf><cf>If you hear a patient who has been confirmed to be deceased speak,<cf><cf>DO NOT UNDER ANY CIRCUMSTANCES LISTEN TO WHAT THEY ARE SAYING.
+EMERGENCY:<cf>801 641 88
+EMOTIONAL CONTROL
+EMPTY
+ENGINE
+ERROR
+ETA: 0d /0h / 0m 
+ETA: 0d /1h / 14m 
+ETA: 2d /9h / 54m 
+ETA: 3d /6h / 14m 
+EXPLOSIVE SYSTEM STATE
+EXTERNAL CALL
+Electricity
+Elena Morozova<cf>"The Earth is not a foe - she is a challenge."<cf>Depth Achieved: 4287 meters<cf>March 2, 1955
+Emergency
+Emergency?
+Employee ID:<cf>Age:<cf>Civil Status:<cf>Citizenship:<cf>Criminal History:
+Engine
+Engine Fan
+Engine Hall
+Engine Room
+Engineer
+Engineer<cf>Bohdan Pluzhnik
+English
+Enter the age of the person associated with this record, then press #.
+Enter waypoint data from the LABORATORY into the terminal
+Entry#1
+Entry#2
+Entry#3
+Epic
+Español (Latinoamérica)
+Estimate the severity of your current emergency from 1 - 9.
+Eternal Draconic Overlord
+Even if you tried to explain what truly is at stake here for you now, would they understand?
+Even stranger, those voices all repeat the same word:
+Even the dimmest light may pierce the darkness. Your fate is in your hands now. 
+Everything feels heavy.<cf>I can’t open my eyes.<cf>It’s hard to move or say anything.<cf>I hear voices sometimes.<cf>I think one of them is dad.
+Everything is on fire.<cf>It’s really hot. I'm scared. My eyes are stinging, I can't see.<cf>I don’t know where to go.<cf>I keep calling for dad. But he's not here.
+Excitement.
+Existing Recording Found<cf><cf>Overwrite?
+Exit
+Express Telegram<cf><cf>From: Stepan Adamenko<cf>To: Viktor Kaminskyi<cf><cf>You have to go home right now.<cf>All landlines, electronics out of order.<cf>Fires throughout the city.<cf>Can't tell you confidential details.<cf>We have made a mistake I fear we cannot undo.
+External temp
+FAILING
+FAMOUS GEOLOGIST MAKES GROUNDBREAKING DISCOVERY<cf>Signal found by Dr. Hrytsenko<cf><cf>Is something trying to contact us from below?<cf>"The frequency of the Signal seems to change depending on the observer,<cf>" Dr. Hrytsenko says:<cf>"In plain terms, it 'speaks' in different ways depending on who's listening."<cf><cf>Ever since the Matryoshka Incident, most citizens of the SPRN have<cf>in some way or another experienced-
+FATAL ERROR
+FIRE
+FIX<cf>VENT!
+FLOW RATE........STABLE<cf>SCRUBBERS........ONLINE<cf><cf>FAN SYSTEM IN........OK<cf>FAN SYSTEM OUT.......OK<cf>FAN SYSTEM C.........OK
+FOR TOMORROW
+FORWARD STRATA DENSITY EXCEEDS CUTTING THRESHOLD.<cf>MECHANICAL DRILLING INEFFECTIVE.<cf><cf><cf><cf>REQUIRED ACTION:<cf>INITIATE TORPEDO SOFTENING PROCEDURE.<cf>
+FPS limit..........
+FREQUENCY METER
+FULL SPEED
+FUSEBOX RESET PROTOCOL - REV. C
+FUSEBOX RESET PROTOCOL - REV.C<cf>Property of Orbis Systems. Unauthorized operation is punishable by law.<cf><cf>Step 1. Fuse Installation:<cf>Insert the fuses into the sockets. <cf>Do not force insertion, misalignment may cause shorting.<cf><cf>Step 2. Load Calibration:<cf>Rotate the middle selector knob to match the number of fuses installed.<cf><cf>Step 3. Circuit Activation:<cf>Press and hold the red glowing charge button until the indicator light turns solid green.<cf><cf>Step 4. Phase Alignment.<cf>Flip switches 1, 3, 6 and 7 into the upright (ON) position.<cf>Switches may be stiff, apply steady pressure.<cf><cf>Step 5: Main Breaker Engage:<cf>Pull down the breaker lever with a firm motion.
+Family
+Fighting back.
+Find Petro.
+Find me
+Fire
+Fire Extinguisher
+Flashlight
+Flat-head screwdriver
+Flip switches 1, 3, 6 and 7 into the upright "ON" position. Switches may be stiff, apply steady pressure.
+Flower
+Follow it, and I will lead you through the darkness.
+Follow my light,
+For Tomorrow.
+For now you will have to divert power yourself by rerouting the fusebox on the REC floor.
+For tomorrow
+For tomorrow, then?
+For tomorrow.
+Forever.
+Forward
+Found in the Geologists dorm. The faint blood on the shell a testament to forsaken dreams.
+Found in the Geologists dorm. The teal shell is scratched with frantic, ineligible notes. 
+Found in the engine halls. The shell is stained with oily fingerprints. 
+Founder & CEO<cf>
+Français
+Fredrik Wisborg
+Friends.
+From a friend
+From: Möbius Command command@mobius.system<cf>To: Navigator Terminal<cf>2/11-87<cf><cf>Guide the vessel through the deep-earth strata and <cf>assist the onboard geologist in accessing marked tungsten <cf>deposits.<cf><cf>Primary responsibilities:<cf>-  Plot and adjust course along the planned drill path.<cf>-  Reach designated relay stations for uplink capability.<cf>-  Coordinate movements to support geological extraction. <cf><cf><cf>Note:<cf>The vessel's communications system is receive-only. Outbound data, status reports and <cf>distress signals cannot be transmitted until a relay <cf>station is reached. These mounted uplink points are what <cf>the coordinate setter is calibrated to.<cf><cf>Stay on path. <cf>Maintain schedule.<cf><cf>-  Möbius Command<cf><cf>
+Fuel Pumps
+Full speed
+Fullscreen
+Fuse
+GEIGER OS
+GEIGER OS<cf>(c)Strata Industries  1976-1982<cf>proprietary software<cf>license: INTERNAL USE ONLY<cf><cf>Kernel Build: 5.9.12<cf>Registered NODE: NAV-04
+GOOD MORNING
+GOOD SKY
+GUIDE OUR NATION THROUGH THE DARK<cf><cf>ENLIST AS A NAVIGATOR
+Game saved
+Gameplay
+Gamma..............
+Geologist
+Geologist<cf>Yosep Hrytsenko
+Geology Lab
+German Localization
+Get into the cockpit. Listen to your instincts. 
+Get into the pilot seat, Viktor.
+Get out of the way!
+Getting the drill moving again must be your absolute top priority. 
+Goodbye
+Grandpa.
+Graphics
+Ground Density: 
+Ground density
+Ground density chart<cf><cf>Ground density — Drill speed<cf><cf>2.20 g/cm³ → 70 rpm<cf>2.60 g/cm³ → 62 rpm<cf>3.00 g/cm³ → 54 rpm<cf>3.40 g/cm³ → 46 rpm<cf>3.70 g/cm³ → 38 rpm<cf>4.00 g/cm³ → 30 rpm<cf><cf>Exceeding max speed risks overheating or drill collapse.
+Ground density:
+Guess they were all affected.
+Gun.
+HAVE YOU LOST SOMEONE?<cf><cf>To lose a loved one is the deepest wound a person can carry.<cf>The world is cruel. We learn that far too early.<cf><cf>But it does not have to end there.<cf><cf>Through revolutionary neuro-archival technology, the Vostok Initiative offers a final chance to preserve what matters most. Using our state-of-the-art memory cassettes, a human consciousness can be transferred moments before biological death.<cf><cf>A voice.<cf>A memory.<cf>A presence.<cf><cf>Preserved.<cf><cf>So you never truly have to say goodbye.<cf><cf>And perhaps, one day, you may even speak again.
+HEY, DAD
+HIDDEN TREASURE TO SAVE DAD
+HOME, BITTER HOME
+HONOURABLE DEED<cf><cf>This is to certify that it appears by the Registers of the Institute of Strata that<cf><cf>Viktor Kaminskyi<cf><cf>in the Examination for the Degree of Engineering and Boring, in accordance with the Statutes of the State, kept the prescribed residence and passed all the necessary examinations on 28 June 1962.
+HURRY
+Hans Haave<cf>
+Happiness.
+He is not truly gone, Viktor.
+He is still here, somewhere in this old painful memory of yours. 
+He shouldn't have been able to get out, let alone get hold of any bullets.
+He stabbed Hrytsenko multiple times with a screwdriver. Two of the wounds were fatal.
+He was adamant that Viktor wasn't himself. That it would have been wrong to kill him. 
+He was clearly delirius beyond all human reason at that point.
+He was one of those geniuses that felt larger than life.
+Heading:    184.2 S  <cf>Drift:      -0.3  <cf>Velocity:   0.6KTS (1.1km/h)
+Hey.
+High
+His cassette is the key. It is what will bridge the gap between us.
+History doesn’t punish the guilty, it punishes the convenient.
+Hit the target with a torpedo.
+Home.
+Hospital 12<cf>Children's ward
+Hrytsenium
+Hrytsenium - New Element Discovered by Genius Strata Scientist
+Hrytsenium crystal <cf>seems to trap frequency.
+Hurry.
+Hydraulics
+I Told You So
+I asked dad if he had ever shot a gun, but he said that he hadn't.<cf>He said that there was a big war once and no one was allowed to have guns after that. 
+I asked dad why I don’t have a mom.<cf>He got quiet for a bit.<cf>I didn’t ask again.
+I assure you, no one wants this. Especially when you are so close to the M-12 vessel. 
+I can help you find what you seek.
+I can't even remember her name. 
+I did everything I could to protect you.  I really did.
+I don't know why the neighbor's cat always yells at me.<cf>I just want to be friends.
+I don't know their faces but their voices are familiar.<cf>They're smiling at me.<cf>I am safe.<cf>I am loved.
+I don't know where it came from, I don't know what it wants.
+I don't want to be alone.
+I don't want to die. 
+I don't...
+I don’t know where one memory ends and the next one begins.
+I found the best stick in the world.<cf>It's shaped like a sword, with a big handle.<cf>It makes me feel both happy and sad.<cf>If it's the best stick in the world then I will never find a better one and that's no fun.
+I got a bicycle.<cf>It looks really nice and I want to try it.<cf>But I can’t ride it.<cf>I just look at it and wish I could.<cf>Dad has promised to teach me soon when he is no longer so busy.
+I got in a fight in school.<cf>Mikhail put my shoes in the toilet again so I hit him.<cf>Dad says hitting people is bad but I don't think he ever had to walk home in wet, stinky shoes when he was in school.
+I hate to say 'I told you so', Stepan.
+I have EVERYTHING to lose.
+I have to show you what I've found. 
+I haven't. 
+I hope it can save you now.
+I hope this is just another Kaminskyi issue, but you MUST get him back into the cockpit.
+I just don't want to give up.
+I just know it. 
+I just need to know it wasn't all for nothing.
+I just want to be the kind of father who tries.
+I know it hurts.
+I know the White Rabbit is disrupting most communications, but you've been at a standstill for over 12 hours now. 
+I know things don't seem good now.
+I know this isn't how either of us wanted this to go, but others will pick up the torch from us.
+I know you did all that you could.
+I know you will find a way. 
+I miss dad.
+I never did.
+I refuse to accept the worst.
+I refuse to cancel this mission over one drunk. Too much is at stake. 
+I said it during the prep.
+I sat on the floor and played with my toys.<cf>Dad was in the other room.<cf>I like that I can still hear him humming.
+I saw a big machine digging deep into the ground.<cf>It was loud and strong and didn’t stop.<cf>I watched it for a long time.<cf>Dad said people use machines like that to go deeper and deeper.<cf>I told him I want to be a geonaut when I grow up.
+I saw a little toy mole on a shelf.<cf>It looked soft and kind.<cf>I picked it up and held it for a bit.<cf>I didn’t want to put it back.<cf>I asked if I could keep it.<cf>Dad said no.
+I should have done more to protect you.
+I should have never brought you to this godforsaken place.
+I stood by the shore and looked at the ocean.<cf>It felt really big.<cf>I kept thinking there could be huge fish or monsters under the water.<cf>Scary!
+I suppose you are still looking for your son. 
+I told them from the start.
+I told you so
+I understand that you must feel wary to trust me. 
+I understand the situation is dire, but that enough is not grounds for extraction.
+I want To go DeepeR DowN THan anyone
+I want to go home
+I want to go home.
+I want to play again.
+I was right about the signal.
+I'm afraid it gave up on your kind a long time ago.
+I'm aware that Dr. Hrytsenko is the one responsible for interpreting the Signal data. 
+I'm cold. 
+I'm glad he is with me. 
+I'm not about to let your stubborness be the death of you.
+I'm not good with words. 
+I'm scared.
+I'm so scared
+I'm so scared.
+I'm so sorry.
+I'm sorry, I just don't know... I don't know what I'm doing.
+I'm still here
+I'm taking the engines apart. We're stopping here.
+I'm telling you this as a friend. If you extract now, without central command permission, heads will roll.
+I'm truly sorry you had to go through that again.
+I've been waiting so long.
+I've got to say... I've never seen anything so beautiful.
+ID
+INACTIVE
+INBOX STATUS
+INCOMPATIBLE
+INCOMPATIBLE CASSETTE
+INPUT COORDINATES
+INSERT A TORPEDO INTO THE FIRING TUBE
+INSERT CASSETTE
+INSERT EMPLOYEE ID
+INSERT INTO A DOOR PANEL
+INSERT KEY<cf>START ENGINES
+INSERTED.......... COCKPIT_TERMINAL
+INSERTED.......... DORM_04_TV
+INTERNAL CALL
+IT AWAKES
+IT CALLS
+IT FESTERS
+IT IS WAKING UP
+IT LIES
+IT SMILES
+IT WAITS
+If I could bring back Petro right now for you, I would. 
+If only we'd known...
+If there is blame in this mission, it begins and ends with me.
+If this is correct, press 1. If this is not correct, press 2.
+If we bring you with us, then the mission is doomed.
+If you are to overcome it, then you must face it head on
+Ignition
+Ignition Key
+Impressive that such a small vessel can contain something as infinite as a soul.
+In Memoriam: Matvii Romaniuk<cf>1954 - 1979
+In Stepan's dorm there is a gun case. There's just a single bullet on board, for the most unthinkable of emergencies.
+In return, I merely hope to give you the peace you have so truly earned.
+Inbox
+Incoming
+Incompatible
+Input coordinates and steer to target
+Inscribe to a communication cassette to read
+Insert Cassette
+Insert the fuses into the sockets.<cf>Do not force insertion, misalignment may cause shorting.
+Instant subtitles..........
+Instead they ventured beyond where your kind were ever meant to go,
+Instead you set him free.
+Institute Bank of the SPRN<cf>Notice of outstanding debt<cf>29/08-82<cf><cf>Citizen Kaminskyi,<cf>The Institute notes that the total sum of <cf>your debt now exceeds <cf>39 000 000 Zev.<cf><cf>This letter serves as a reminder that we <cf>have the authority to dispossess your <cf>citizenship status should we see no <cf>change in your capacity to repay the <cf>outstanding amount.<cf><cf>Following is a summary of your <cf>recent significant bank statements.<cf><cf>Hospital 12: -2 275 000 Z<cf><cf>The Vostok Initiative: -12 850 000 Z<cf><cf>Relief for recent termination: +78 000 Z<cf><cf>Kraia Oblast Funerary Arrangements: -1 170 000 Z<cf><cf>Relief for prolonged unemployment: +45 500 Z
+Instrument N:  OK<cf>Instrument S:  OK
+Interact
+Interact -
+Internal call:
+Internal temp
+Inventory
+Invert mouse...............
+Is this everything? 
+Is to be buried
+It and I were both given a chance at redemption.
+It didn't matter that you hurried home as fast as you could. 
+It doesn't have to be the Signal.
+It has always been the same.
+It has just given up. 
+It is an old, desperate creature.
+It is here.
+It is how you will set us both free. 
+It is not here. <cf><cf>You are safe.<cf><cf>For now. 
+It is waking up.
+It reacts to us. As we drill.
+It seems like he tried to reason with Kaminskyi..
+It seems to call to you specifically, for some reason.
+It wants to devour you. 
+It will be yours.
+It's Hrytsenko.
+It's a dangerous place, but I'll help you out of this, as best I can.
+It's alive, Viktor.
+It's been several days now since any contact from you.
+It's like he tried to rip his body apart.
+It's namesake tried so desperately to glimpse the truth. If only he'd opened his eyes.
+It's natural that you feel responsible for the crew. You are.
+It's never enough.
+It's not a pretty sight.
+It's okay, daddy is here.
+Its buttons are faint from use but still responsive.
+Its not your job to ask why.<cf><cf>Its your job to get the crew there.
+JOIN US IN THE DEPTH<cf><cf>DO NOT RESIST
+JOIN US IN THE DEPTH<cf>BECOME A GEONAUT<cf>STRATA
+JUDGEMENT
+Jan<cf>1974
+January 1979
+Japanese Localization
+Jeremy Blaustein
+Jochen Schütz
+Joe Dart
+Jonas Ekholm
+Jump
+Just don't look directly at the screen.
+Just hand me the tapes.
+Just stay up there. Dig your own grave for all I care.
+Karl Bergman
+Kateryna is waiting for me.
+Keep following the Signal, Viktor. That is how you will find me.
+Keep rolling the tape.
+Keira Larsson
+Kemel Cobresle
+Keybinds
+Kill the monster.
+Korean Localization
+LABORATORY
+LET HIM GUIDE YOU
+LET THERE BE LIGHT, FOR NOW
+LIFE SUPPORT SYSTEMS
+LMB
+LOADING
+LOADING.
+LOADING..
+LOADING...
+LOCK IN
+Laboratory
+Language
+Last sync: 08:41:17
+Left
+Left Engine Operational......YES
+Let me just start by saying we are all devastated about Hrytsenko's death.
+Let me remind you that I am your commanding officer. 
+Let this world without him finally be undone.
+Let's get this over with.
+Like Petro I still live on, trapped in static.
+Like water breaks stone over the ages.
+Liliya and Vira are waiting for me.
+Listen. Viktor, listen to me.
+Loading
+Localization Support
+Locker key
+Look at me. It's time I made you see.
+Look, I know that thing that got Yosep and Bohdan is still here with us.
+Look, I'm not trying to be heartless. All I'm saying is that this is not one of those situations I can bail you out from.
+Love.
+Low
+Low speed
+Loyalty doesn’t tend to be rewarded in this business.
+M-13,<cf>I'm sorry to say it, but this mission is a disaster.
+M-13,<cf>Maria here.
+M-13,<cf>This is Maria,<cf>Surface Control.
+M-13,<cf>Whoever is reading this...
+M.O.L.E
+MAKE THE RECORDING<cf>PRESS THE SWITCH
+MANUAL PILOTING NEEDS TO BE ENGAGED.<cf><cf>ENTER 4-DIGIT EMPLOYEE ID <cf>FROM YOUR ISSUED DORM CASSETTE.<cf><cf>Y = FIRST 2 DIGITS <cf>X = LAST 2 DIGITS
+MERCY
+MESSAGE
+Mail
+Mail Cassette
+Main menu
+Make that shot count.
+Make the VOSTOK bank transaction.
+Make the recording.
+Make your first course correction.
+Make your way over to us, yeah?
+Maria
+Master Volume
+Me and dad fought against fire breathing dragons together.<cf>We won, but they burned dad really badly.<cf>Afterwards I found a bucket with some water to pour over his head to make him feel better. <cf>He laughed so it must have worked.
+Me and dad walked to a really big tree in a big empty field.<cf>There was nothing else there, just the tree and the grass.<cf>I looked up at one of the branches and thought it would be perfect.<cf>I asked him if we could make a swing there.<cf>I really want one.
+Medium
+Melancholy.
+Merely a flimsy ward against the darkness they sent you into. 
+Message 127
+Message 128
+Message 129
+Message 130
+Message 131
+Mission Goals <cf>- Keep drilling until target depth is reached (8759m)<cf>- Locate signal source<cf>- Find out what happened to previous expedition<cf>For Tomorrow<cf><cf>Something wrong with vent? <cf>Tell Bohdan!
+Mole.
+Mom.
+Monsters.
+Most report hearing voices of parents, siblings, or old friends.
+Mouse sensitivity
+Move
+Move - WASD
+Move the M-12 Vessel.
+Movement
+Music volume.........
+My dear friend,<cf>Let me tell you something I think would surprise you. Ever since <cf>I was first exposed to the Signal I've been hearing your voice again.<cf><cf>This is a strange and wonderful thing in itself, but the things you reveal <cf>to me about the Signal are stranger and more wonderful still.<cf><cf>You told me to interpret the frequency as brain waves.<cf><cf>It's not fickle or random, but an expression of something <cf>almost like a mind - only one more vast and complex than <cf>anything we've ever encountered before.<cf><cf>You also told me that the Signal can be trapped.<cf><cf>Hrytsenium seems to stabilize the Signal when it passes <cf>through the crystal structure. Like a beam of light suspended by <cf>a prism. <cf><cf>The two things are clearly linked, that much I can figure out <cf>even without you.<cf><cf>Now there is talk about aborting the mission, and I feel like <cf>I may be the only one who realizes how close we are to uncovering <cf>something truly momentous.<cf><cf>I so very much miss the correspondence we had. <cf>I know you would have understood.<cf><cf>Yours truly,<cf>Yosep Hrytsenko
+NAVIGATION LOCKED
+NEURAL STIMUALTOR
+NEURAL STIMULATION
+NO ACTIVE WAYPOINT IS SET<cf><cf>RETRIEVE WAYPOINT DATA FROM THE LABORATORY
+NO CASSETTE FOUND
+NO CASSETTE INSERTED
+NO DATA ENCODED<cf><cf>INSERT A NEURAL CASSETTE<cf>WITH A GEO LAB RECORDING
+NO INSERTED CASSETTE
+NO NAVIGATION<cf>CASSETTE FOUND
+NO NEW ORDERS
+NO WAYPOINT DATA
+NOT DEAD YET
+NOT ENGAGED
+NOT READABLE
+NOT READY
+Nav Cassette
+Navigating through the layers below you is far too precise for our instruments. We can't risk another Matryoshka incident.
+Navigation Cassette
+Navigator<cf>Viktor Kaminskyi
+Navigator.
+Need room to be dark.
+Negative. We believe he was the first one Kaminskyi killed.
+Neural Cassette
+New Assignment
+New Game>
+No
+No Tomorrow Without Sacrifice
+No account is registered under that ID. Please try again.
+No one is coming.
+No wonder you were broken.
+Nothing lies between us now.
+Nov<cf>1982
+November 1982
+Now for the bad news.
+Now you are close. Very close.
+Now you have to hurry.
+Now, for the M-12 vessel... This is where things get truly weird.
+O2 LEVEL
+O2 SAT:<cf>89%
+OFF
+OFFICE
+OK
+ON
+ON TRACK
+ONE LAST TIME
+OPERATIONAL
+OPTIONS
+ORDER INSCRIBED
+ORO INTERACTIVE
+OUTDATED
+OVERWRITING...
+Oct 1980
+October 1980
+Of course it’s you. 
+Of course we both know the truth is a bit more complicated than that.
+Off
+Offer of Enlistment<cf><cf>Issued: 03/09 1982<cf>Recipient: Viktor Kaminskyi<cf>Year of birth: 1939<cf>Residence: Zavodskaya Ulitsa 39b<cf><cf>Viktor,<cf>I have spoken to the Committee again.<cf>They are prepared to pay off your debts in full, <cf>and they will pull some strings so that you can be <cf>reinstated as a citizen again.<cf><cf>They are still sceptical, but I believe they know <cf>as well as I that you are the best Navigator still alive.<cf><cf>This might be the last chance I'm able to give you.<cf>I know you will make me proud.<cf><cf><cf><cf>Signed: Director of Initiatives,<cf>Stepan Adamenko<cf>Strata Drilling & Exploration division<cf>
+Office
+Oh Saints... Stepan. 
+Oh, Viktor.
+Oh, how long I too had waited. 
+On
+One last time.
+Open your eyes, Navigator.<cf><cf>The Mole is blind without you.
+Operational
+Options
+Or I'll put a screwdriver through your skull.
+Or Saints help me, there will be consequences if you actually make it back to the surface.
+Orange Cassette
+Otherwise you'll be boiled alive in a few hours.
+Otherwise you'll be digging blindly. 
+Our communication windows are getting narrower. At least, that's what I hope is happening.
+Our records indicate that the payment has not yet been finalized and requires your registration consent.
+Our systems have lost track of the Signal again. 
+Outdated
+Overheated
+Overwrite
+Petro Kaminskyi<cf>1974 - 1980
+PASSWORD
+PASSWORD:
+PLACE THE PRIMER OVER THE TUBE AND COCK IT
+PLAY
+PLEASE INSERT A CASSETTE...
+POINT BLANK
+POWER FAILURE DETECTED<cf><cf>RESTORE POWER AT THE FUSEBOX <cf>LOCATED IN THE RECREATION ROOM
+PRESS THE BUTTON TO<cf>INSCRIBE A MESSAGE
+PRIMER.................ENGAGED
+PRIMER:
+PRIMER: NOT ENGAGED
+PROCESSING COMPLETE
+PROCESSING...
+PUBLISHED by <cf>
+PULL LEVER<cf>TO RECORD
+PULL HANDLE TO THE RIGHT<cf>INPUT COORDINATES<cf>
+PURPOSE
+Panic.
+Patient Vitals Status
+Payment has not been confirmed. Did you know that payment plan options are available?
+People they have lost.
+Perhaps I've been too informal during these messages. 
+Petro has already waited long enough.
+Petro is still with you on your vessel.
+Please be safe down there. <cf><cf>This is the last time.<cf>You promised.
+Please direct your request through the proper channels.
+Polish Localization
+Poor bastards...
+Portuguese Localization
+Post-procedure documentation will be finalized automatically.
+Preservation is not an act of denial, it is an act of care.
+Pull down the breaker lever with a firm motion.
+Purple Cassette
+QUIT
+R ENGINE:
+RATIONAL THOUGHT
+RE: Concerns
+RE: Emergency
+READABLE DATA
+READING
+READING SIGNAL...
+READY TO INSCRIBE
+READY TO RECORD
+READY TO REMOVE
+REC ROOM
+RECORDING FAILED<cf>TRY AGAIN
+RECORDING SUCCESSFUL
+REMEMBER
+REMOVE INSERTED OBJECT
+REPAIR THE RIGHT ENGINE MANUALLY
+REPORT 03/03-79<cf><cf>We finally managed to pick up readings of the Signal. <cf><cf>It's weak, but it's definitively something there with its own signature.<cf><cf>Good to know we didn't drill all this way for nothing.
+REPORT 07/4-79<cf><cf>Signal's strength keeps rising the closer we get. <cf>Like something's waking up. <cf><cf>Not liking it one bit, but surface <cf>control asks us to keep going. <cf>They say we're going to make<cf>history. <cf><cf>I just hope it's not the cautionary kind.
+REPORT 09/4-79<cf><cf>Something is making us sick. Nausea, headaches, and <cf>wounds appearing seemingly out of nowhere. <cf><cf>Radiation <cf>shields are still at full capacity, so that's not it. <cf>Radiation sickness typically doesn't make you hear voices.<cf><cf>We have requested evacuation.<cf>Some things should clearly stay buried.
+REPORT ?? ????<cf><cf>We have cut the extraction cables. <cf><cf>Thinking, talking <cf>getting difficult. <cf><cf>There is something here with us. <cf>It must stay here. <cf>We must stay here. <cf><cf>Just wish I remebered why.
+RESPONSIBILITIES: DIG<cf>- DIG<cf>- DIG<cf>- DIG<cf>- DIG<cf>- DIG
+RESPONSIBILITIES: ENGINEER<cf>- Maintain vessel engines<cf>- Monitor magnetism generator<cf>- Repairs and general maintainance
+RESPONSIBILITIES: GEOLOGIST<cf>- Perform Signal recordings<cf>- Evaluate Signal data<cf>- Collect rare earth samples
+RESPONSIBILITIES: NAVIGATOR<cf>- Drill Vessel Piloting<cf>- Find your son<cf>- Do whatever it takes to bring him back
+RESPONSIBILITIES: NAVIGATOR<cf>- Drill Vessel Piloting<cf>- Navigational Course Corrections<cf>- Fill in for dead crewmates<cf>- Keep the drill running, no matter what
+RESTART TERMINAL
+RIGHT ENGINE FAILURE<cf><cf>MANUAL REPAIR REQUIRED
+RIGHT ENGINE: MALFUNCTION
+ROOT://ADMIN> Critical error.
+ROOT://ADMIN> Get into the pilot seat, Navigator. Reach the other side. 
+ROOT://ADMIN> Required Action: bring drilling vessel closer to Signal Source.
+ROOT://ADMIN> Signal Source too far away from recorder.
+RPM OUTDATED
+RPM OUTDATED<cf>NEW TARGET VALUE<cf>70 RPM
+RPM:
+RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN RUN
+Randomize!!
+Reach your apartment.
+Read
+Ready
+Rec
+Rec Room
+Reception
+Record me onto the cassette together with Petro.
+Record my essence onto Petro's cassette.
+Reflection.
+Remarkable, in some sense, that Kaminskyi still managed to get them to the M-12 vessel.
+Remember
+Remember we're all depending on you.
+Renowned Expert Discovers Cause of Blackouts<cf><cf>Failure of almost every kind of modern technological <cf>system has been reported since the Matryoshka incident. <cf>According to Dr. Hrytsenko of the Strata Institute a strange <cf>Signal from below the earth seems to be the cause. <cf>"The Signal keeps finding its way into all types of recording equipment,<cf>" Dr. Hrytsenko says. "It's like the frequency naturally tries to overwrite <cf>any existing data."
+Repair the engine.
+Reply to health report
+Reset
+Resolution
+Restore Defaults
+Resume
+Retry
+Return
+Revolver
+Right
+Right Engine Operational.....YES
+Right now you are far too off course for the autopilot to keep up without a navigator.
+Rotate the middle selector knob to match the amount of fuses installed.
+Russian Localization
+Rust and blood mix along the shaft. The only reward for years of service.
+SAFE DISTANCE REACHED<cf>CLEAR OF HAZARD<cf><cf>TURN OFF VESSEL
+SEDATION DELIVERY:
+SEISMIC PULSE: 0.02Hz <cf>TREMOR ACTIVITY:   LOW  <cf>WAVE PATTERN:      STABLE  <cf>LAST EVENT:        02:13:45  <cf>MICROTREMOR DETECTED  <cf><cf><cf><cf>MONITOR RANGE:     0-500m RADIUS  <cf>DETECTION STATUS:  ACTIVE  <cf>CALIBRATION:       VERIFIED<cf><cf><cf><cf>>> NO SIGNIFICANT ACTIVITY DETECTED
+SELF-PRESERVATION
+SFX..................
+SIGNAL ACTIVE
+SIGNAL HANDLING PROCEDURE<cf><cf>Objective<cf>Convert Signal data into a usable waypoint.<cf><cf>Restrictions<cf>Signal data destabilizes vessel systems on contact.<cf><cf>Approved Method<cf><cf>Tune radio transmitter to correct Signal frequency.<cf>Record the Signal onto a cassette.<cf>Insert cassette into navigation system to process coordinates.<cf><cf>Important<cf>Standard Strata cassettes will fail under Signal load.<cf><cf>Use instead<cf>Neural storage cassettes.<cf>Designed to carry unstable cognitive data.<cf>Compatible with Signal structure.
+SIGNAL SOURCE
+SIGNAL TOO WEAK
+SIGNAL TOO WEAK<cf><cf>RECORDING NOT<cf>POSSIBLE
+SOURCE OF MASSIVE<cf>BLACKOUTS DISCOVERED<cf><cf>Signal found by Dr.Hrytsenko
+SPRN<cf>Socialist People’s Republic of Navriska<cf><cf>Signature: Petro<cf><cf>Issued on: 23 July 1978<cf>Valid until: 23 July 1988<cf><cf>Surname: Kaminskyi<cf>Name: Petro<cf>Date of birth: 02 January 1974<cf>Sex: M<cf>Place of birth: Voryslav
+STATUS:
+STBY   CLEAR
+STOPPED
+STRATA COMMUNICATION SYSTEM - v1.2.0
+STRATA COURSE CORRECTION EXAM<cf> 23 VI 1961<cf><cf>This examination constitutes the final assessment prior to Navigator certification.<cf>All responses are evaluated against Strata operational standards.<cf>Successful completion grants operational clearance.<cf><cf>Make us all proud, Viktor.<cf> Good luck.<cf><cf><cf><cf>1. According to the October Doctrine, what is the first step in a course <cf>correction procedure?<cf><cf>Activate the ping lever to strike the tunnel walls and gather raw seismic data<cf> <cf><cf>2. What must be done with raw echo data before it can be used?<cf><cf>Translate it into a visual terrain map through a decryptor<cf><cf><cf>3. After processing the echo data, how should the sonar arrows be adjusted?<cf><cf>The coordinate setter arrows should be pointed towards the least obstructed points on the screen.<cf>
+SUCCESS
+SYSTEM FAULT<cf><cf>PROCESS INTERRUPTED<cf>MEMORY INDEX FAILURE<cf>DISPLAY DRIVER NOT RESPONDING
+SYSTEM RESET DUE TO STATE CORRUPTION<cf><cf>NEW PASSWORD GENERATED.<cf>CHECK INTERNAL MAIL.
+Sad.
+Safety.
+Salvation is not something to be found through prayer or by chance.
+Save us both before this all falls apart.
+Scan
+Scavenged from a corpse. The cold truth of the world is that for some it's simply too late. 
+Screen mode........
+Seismic data encoded.<cf>Take out cassette.
+Seismic data found.
+Sender: Maria<cf><cf>Let me just start by saying we are all devastated about Hrytsenko's death. <cf><cf>He was one of those geniuses that felt larger than life. Like we existed at a different wavelength from him. <cf><cf>But that doesn't change anything, Stepan. You have to keep going, no matter what.
+Set your son free.
+Shh,  I know.
+Signal Strength
+Signal exposure leaves imprint on retina.
+Since when has anything worthwhile ever been easy?
+So Kaminskyi used the old war torpedoes to blast his way in through the hull.
+So that I can bring him back to you.
+Some kids were mean to me at kindergarten today.<cf>They laughed at me and didn’t let me play.<cf>I felt really sad and wanted to go home.<cf>Dad is never mean.
+Some things just can't be solved. 
+Soon the wait is over.
+Space bar
+Spanish Localization
+Sprint
+Sprint - Shift
+Stabilizers
+Standard pack. Crew-issued comfort, always running low.
+Standard pack. One of the few indulgencies Strata would grant you.
+Step 1: Fuse Installation
+Step 2: Load Calibration
+Step 3: Circuit Activation
+Step 4: Phase Alignment
+Step 5: Main Breaker Engage
+Stepan should have shot him.
+Stepan was desperate to find something in Yosep's research that could help, even after the killing.
+Stick.
+Still asleep in the static. 
+Storage
+Stores and syncs crew mail transmissions. Assigned to Administrators.
+Strata
+Strata Corporation
+Strata Directive Committee<cf>Drilling and Exploration Division<cf><cf>Offer of Enlistment<cf><cf>Issued: 02/01 1979<cf>Recipient: Viktor Kaminskyi<cf>Year of birth: 1939<cf>Residence: Prospekt Mira 18<cf><cf>Viktor,<cf>Your rejection of our offer saddens me, but I want you to know that I understand.<cf>I know your father and you never saw eye to eye.<cf>And now you are a father yourself.<cf>It's a heavy burden to bear,<cf>but I know you will handle it with the same care, tenderness, and unfailing effort <cf>that you seem to give to everything in your life.<cf><cf>I'm proud of you.<cf><cf>Signed: Director of Initiatives,<cf>Stepan Adamenko
+Strata disabled the autopilot systems.
+Strata had refused to let the drilling missions be a thing of the past. 
+Strata will claim the mission failed because of sabotage.
+Survive the monster.
+Svitanok Cigarettes
+System 1: CONNECTED
+System 1: READY
+System 2: CONNECTED
+System 2: READY
+TAB
+TAKE THE CASSETTE
+TAPE #1
+TAPE #2
+TAPE #3
+TAPE #4
+TARGET DEPTH:
+TEMPERATURE REPORT
+TERRAIN AHEAD UNSCANNABLE<cf>AUTOMATION DISABLED
+TERRAIN DENSITY
+THAT'LL DO
+THE BRIGHTEST MINDS<cf><cf>BELONG BELOW
+THE CORNERSTONE<cf><cf>Directorate Board Questions Strata<cf><cf>Maria Demchenko, a senior representative of the once-dominant mining and energy conglomerate Strata has been summoned by the Directorate Board. Demchenko is to answer questions about a possible connection between the so called Matryoshka Incident, and the M12 mission, a Strata-sponsored expedition that launched earlier this month. The expedition was the first mission of its kind undertaken by Strata in over nine years.<cf><cf>A second expedition has now been proposed, this time to be lead by veteran geonaut Stepan Adamenko. The goal of this expedition is said to be to investigate why the M-12 lost contact with the surface, though Strata has claimed to have no hope of finding their crew still alive.<cf>
+THE CORNERSTONE<cf><cf>NATION PUTS FAITH IN MOLE<cf><cf>A Strata M-13 drilling vessel, affectionately dubbed the "Mole" by its 4-man crew, is set to depart later this week, targeting the near-impossible depth of 8700 meters. Mission director Stepan Adamenko is hoping to locate the source of the enigmatic White Rabbit Signal, which experts believe may be causing the disturbances currently plaguing the nation.<cf><cf>The M-13 is, by some, seen as mining and energy conglomerate Strata's attempt to set things right, after a previous drilling vessel suddenly went missing at lower depths. Its crew...
+THE VESSEL IS OFF COURSE<cf><cf>CHECK DIAGNOSTICS IN THE<cf>COCKPIT LOCATED ON THE DECK
+TO INSCRIBE<cf>PRESS SWITCH
+TO OVERWRITE<cf>PRESS THE SWITCH 
+TO REMAIN STILL
+TO SAVE YOUR SON<cf>PRESS THE SWITCH 
+TRUST ME
+Take the cassette<cf><cf>You will need it
+Take the cassette. Hold him in your arms and you will know. 
+Taras Kaminskyi<cf>Depth Achieved: 6482m<cf>January 5, 1960
+Targeting Cassette
+Thank you K-A-M-I-N-S-K-Y-I for registering with Vostok.
+Thank you for keeping our hopes alive.
+Thank you for sharing that with us.
+Thank you for taking this step.
+Thank you, Viktor. For all that you've given me.
+Thank you. The date is correct.
+Thank you. The information is correct.
+That explosion just now, that was you, wasn't it?
+That said, we're sure glad to have you here. 
+That was nothing but a creature of the past.
+That’s what you are.
+The Cornerstone<cf><cf>8754 METERS - A NEW LOW<cf><cf>S. Adamenko<cf>
+The Engineer mistook mourning for madness. He couldn't fathom what truly defines a monster. 
+The Geologist saw the world only in waking dreams. Not realizing that to listen you have cease talking. 
+The M-13 was so beat up at that point that they couldn't peform any conventional docking manuevers.
+The Signal target coordinates seem to have been updated without issue.
+The Signal's source. It's here, just a few meters beneath us.
+The VOSTOK INITIATIVE<cf>A SUN THAT NEVER SETS<cf><cf><cf>THE LIGHT OF CONCIOUSNESS IS THE MOST PRECIOUS THING ANY CITIZEN MAY OWN<cf><cf>Never let go<cf><cf>DISCLAIMER: MUST BE KEPT COLD
+The Vostok Initiative<cf><cf>tel. 8 273 6409
+The Vostok Procedure:<cf><cf>- During the moment of passing there is a change of exactly 21g in a patient's weight.<cf><cf>- This has been theorized as being the soul leaving the body.<cf><cf>- It is of utmost importance that this moment is captured by the neural recorder.<cf><cf>- Euthanasia is therefore needed to ensure the recording and the patient's moment of passing are synchronized.
+The age has been verified.
+The angel refused the cruelty of fate; he shattered the boundaries <cf>between life and death.
+The angel taught truth<cf>and secrets; only she <cf>truly understood.
+The angel was imprisoned beneath <cf>the earth; the knowledge he had given them became his chains.
+The date entered is incorrect. Please try again.
+the day scheduled for the inscription procedure is tomorrow.
+The earthquakes, the constant blackouts, the fucking dead who won't shut up. 
+The extraction process has begun.
+The filament inside looks intact. Clean contact points, no signs of stress.
+The first recording starts right at entering the M-13 after extraction.
+The following information is absolutely critical:
+The frequency doesn't play nice with our instruments. 
+The funds will be drawn from your bank account within one to three working days.
+The mission is cancelled. They are bringing us home.
+The old crew was long gone, no surprises there, but Kaminskyi did manage to use their recording equipment.
+The past lies buried down here, Viktor. 
+The past that binds us both can be washed away.
+The payment has been authorized.
+The prize that sent Strata tumbling down this rabbit hole. A glimmering chain that binds us all.
+The symptoms the crew are experiencing could very well be because you are several kilometers below the surface.
+The thing that hunts you thrives in the dark, as evil tends to do. 
+The total amount due is 39.000.000 Zev.
+There are old, sinister things down here that might be best left forgotten. 
+There is something with us here. On the vessel.
+There seems to have been something with Pluzhnik that really set Kaminskyi off.
+These are the cries from the river of souls.
+They broke me, Viktor.
+They called it the Matryoshka incident. 
+They feared a world unaligned with<cf>the tyranny of their dogma; <cf>thus the angel was condemned, <cf>and cast down.
+They pray blindly for salvation.
+They will never truly trust you, Viktor.
+They'll get us out, we just have to give them some time.
+This ID is associated with the name P-E-T-R-O.
+This call serves as verification.
+This case is only to be opened if met with an insurmountable emergency.<cf><cf>All crew members need to unanimously agree to open this case. Therefore each crew member has been assigned one digit at random.<cf><cf>May god help you.<cf><cf>– STRATA<cf><cf>digit three: 5
+This cassette is the key. You brought it with you on this mission for a reason. 
+This game contains disturbing imagery, including themes of mental illness and child death.<cf><cf>This is a fictional scenario and does not depict any real country, people, or events.<cf><cf>It features flashing lights that may trigger seizures in players with photosensitive epilepsy.<cf><cf><cf>Player discretion is advised.
+This has been all about damage control from the start.
+This is Stepan. 
+This is Vessel M-12. Well. What remains of her.
+This is also a gentle reminder that ALL ship systems are dependent on the power that is generated by the drill itself. Including temperature control.
+This is as far as those who came before you made it. 
+This is my light, Viktor. At least what remains of it.
+This is not like the M-12 mission.
+This is not the end.
+This is the depth where the M-12 went missing. 
+This is your last warning.
+This line is restricted to authorized administrators only.
+This mission is over. 
+This mission was never about wisdom.
+This recording will now be played back.
+This unit allows for generation of a new dormitory <cf>access cassette.<cf><cf>- Insert THREE (3) VALID dorm cassettes into slots.<cf>- Press any key to begin synthesis.<cf>
+Though I wonder why you are here, so far below the earth. 
+Though he still seemed intent on actually completing the mission.
+Throne 13:18–19<cf><cf>And the Angel spoke: The earth shall give up those who are asleep in it. There will be no more death or mourning or crying or pain.
+Throne 19:11-12 <cf><cf>And the wicked rejected the Angel's mercy. Instead they cast the Angel down deep below the earth, and there they bound the Angel in a prison of stone.
+Throne 7:32 <cf><cf>And an Angel descended upon the earth, and wiped every tear from their eyes.
+Time Until Hull Failure: 
+To confirm payment, press 1. To cancel this request, press 2.
+To proceed, identify your rank.
+To proceed, we will ask you to confirm some details.
+To remain still
+Too much is riding on this mission. We should reserve extraction for a true emergency.
+Top View
+Transfer File
+Tree.
+Tuned
+Turn Around
+Turn it to 100.7
+Turn off the light
+Turqoise Cassette
+Type password, then hit enter
+UI Design by
+UNAVAILABLE
+UNDEFINED
+UNLOADED
+UNLOCKS: 
+UNREAD ORDER AVAILABLE IN TERMINAL.<cf><cf>ACCESS COMMUNICATION SYSTEM AND<cf>REVIEW IMMEDIATELY.
+USER:
+Ukrainian Localization
+Ultra
+Uncle Stepan came by.<cf>He is always kind and gives me candy sometimes.<cf>He doesn't have any hair.<cf>Dad says it's because Uncle Stepan has been underground for too long. 
+Uncle Stepan.
+Universal Remote
+Unlabeled orange shell. The key to your own cell. 
+Unlike me it doesn't want to help you.
+Unlimited
+Untuned
+UpArrow
+Updated
+Upload the waypoint data.
+Used to receive orders. Not even 8 kilometers of stone can keep Strata from telling you what to do.
+Used to record and replay the precious few transmissions to reach these rumbling depths.
+Used to relay lies and empty promises. This is all you will ever get from them. 
+V. KAMINSKYI
+VALIDITY.......... COMPATIBLE
+VALIDITY.......... INCOMPATIBLE
+VESSEL
+VITAL TASKS:
+VOSTOK
+VOSTOK<cf>A SUN THAT NEVER SETS<cf><cf>Payment to:<cf>VOSTOK<cf>12 Kommunikskaya<cf>101-09<cf><cf>Invoice # VST - 09876<cf>Date: 25 Sep 1980<cf>Payment Due: 30 days from issue<cf><cf>Service<cf><cf>Neural Cassette — ID: 51 — 20,000,000 ₴<cf>Hospital Site Deployment — 5,000,000 ₴<cf>Inscription Procedure — 13,500,000 ₴<cf>Preparation & Custodial Packaging — 500,000 ₴<cf><cf>Vostok makes no medical claims.<cf>Interpretation and meaning are left to those who receive the cassette.
+VSynch
+Verification is complete. All required details have been confirmed.
+Veronica Johansson
+Viktor Kaminskyi
+Viktor,<cf>I hope you've had a chance to consider what <cf>I said when we last spoke.<cf>I'm truly sorry it's been so long.<cf><cf>I know it's easy for others to talk about dark times, <cf>and how to make them go away. It was the same with <cf>Daryna. So many colleagues telling me to 'make <cf>sure to get some sun', as if that would bring her back.<cf><cf>But I really don't think you should be calling that number.<cf>I know you want to cling on to hope, but hope is not <cf>what they're offering.<cf>They want to take you somewhere that doesn't exist,<cf> a place that will never let you truly heal.<cf><cf>My door is always open if you want to talk,<cf>Stepan<cf>
+Viktor, it's Stepan.
+Viktor.... 
+Viktor?
+Voices.
+Vostok Rental Notice<cf><cf>Mr. Kaminskyi.<cf>The rental period of your certified Vostok Recording Machine is coming to a close.<cf><cf>We understand that predicting a loved one's moment of passing can be difficult, which is why we are offering payment plans that are as fair as possible.<cf><cf>However, your bank is no longer willing to extend your credit defecit. If you are unable to deposit additional funds we will, regrettably, have to recall the recording equipment.<cf><cf><cf>
+WARNING
+WARNING! <cf><cf>HIGH MAGMA CONCENTRATION DETECTED<cf>HULL CANNOT WITHSTAND TEMPERATURE<cf>OVER PROLONGED TIME<cf><cf>OVERRIDE EMERGENCY STOP WITH<cf>IGNITION KEY
+WARNING---------<cf>VESSEL IS OFF COURSE
+WAYPOINT UP TO DATE
+WAYPOINT: NOT SET
+WC
+WE'RE ALL MAD HERE
+WHAT HELL WAS THAT?
+Wake up for the second time.
+Wake up.
+Wakes the MOLE. Every navigator's reminder of duty.
+Warning. Magma breach imminent. Relocate vessel immediately.
+Wash away all these memories of funerals, and loss, and death.
+Waypoint Set.................YES
+We are on the brink of a discovery unlike anything mankind has ever seen.
+We are terminating your auto pilot systems in order to save power while we are discussing extraction. 
+We at Surface Control had our first moment of joy since the Matryoshka Incident when you completed the course correction.
+We ate pancakes together.<cf>They were really good.<cf>Now I’m waiting to open my presents. I want a mole!
+We can't always save everyone we care about, Stepan.
+We did find what we were looking for all this time, you know.
+We discovered it after the Matryoshka incident. 
+We finally had an update from Stepan.
+We have taken to calling it the White Rabbit Signal.
+We have the best house.<cf>My friends all think so too.<cf>Dad says that it's because he worked as a navigator.
+We haven't verified that.
+We thought they left us here to rot. 
+We tried to lure him into Stepan's office with the gun as bait.
+We'll dig our way out of this hole together.
+We're so damn close.
+Welcome_back_user<V._Kaminskyi>
+What I'm about to show you is the best recording we have.
+What is going on
+What is going on? 
+What the hell are you doing??
+When we extract we are going to need someone to take responsibility.
+When you're ready, just walk out the door.
+Where are you?
+Where is everyone? 
+White Rabbit
+Who keeps trying, until there is nothing left to try.
+Windowed
+Wired raw reader circuit to screen. <cf>Place crystal on circuit to activate.
+Wishful.
+With all due respect, I wonder if it is wise to play such a recording, if one exists.
+Would they care?
+Would you please turn on the lights? 
+Wrench
+Yes
+Yes. Kaminskyi was just the most susceptible.
+Yosep<cf><cf>Yosep lives in his own little world, as usual. <cf><cf>He claims to be receiving instructions about the <cf>White Rabbit from a dead friend, which is never a good sign.<cf><cf>Getting near-impossible to communicate with him about <cf>anything other than the Signal. As long as I've known him <cf>he's always been obsessive about his work. This seems different. <cf><cf>Perhaps he simply sees more than the rest of us.<cf><cf><cf>Stepan<cf><cf>Joints are acting up, eyesight seems to be deteriorating, and emptying the bladder is more difficult than I'm remembering <cf>it's ever been. <cf><cf>What can be said...<cf><cf>The White Rabbit seems to want to remind me of my age.<cf><cf>She is there too, of course. She always is.
+Yosep Hrytsenko
+You already have a formal complaint in processing. 
+You are so close, Viktor. 
+You can stay here as long as you like.
+You did well.
+You did.
+You don't have to do this.
+You have reached Vostok Continuity Services.
+You have reached the Strata emergency service.
+You have to keep going, no matter what.
+You have to make a choice, Viktor.
+You have to take it for yourself. 
+You just have to find him again. 
+You just have to get back into that cockpit.
+You just have to remember who stole him from you.
+You knew some of your selections were, shall we say, controversial.
+You know how the situation is up here.
+You know what you are up against.
+You made it through.
+You must remember.
+You must save him.
+You need to make some tough decisions.
+You never made it back to him in time.
+You opened your eyes to truly see.
+You opened your eyes to truly see.<cf><cf><cf>Salvation is not something to be found through prayer or by chance. 
+You owe them nothing, Viktor. 
+You previously stated that the person's last confirmed happy memory occurred on their birthday.
+You recognize it, don't you?
+You reveal to me revolutionary new discoveries. <cf><cf>How, while the frequency cannot be measured by conventional instruments, it can be interpreted using brain waves as a medium.<cf><cf>And how, while the frequency is chaotic and seemingly ever-changing, it can be stabilized and trapped with Hrytsenium.
+You seem good at that.
+You sit up there in that cockpit pretending you’re in control 
+You stubborn old idiot...
+You were given a direct order to SIT TIGHT. 
+You were the one who put this crew together.
+You'd think something that has caused so much havoc up here would be easier to find.
+You're part of Adamenko's crew, aren't you?
+You're safe
+You're safe<cf><cf>As long as you are in here I can hold it off<cf><cf>But you can't run from the past forever<cf><cf>If you are to overcome it, then you must face it head on
+You, if anyone, should know that sometimes a commander has to FACE REALITY, Stepan. 
+Your account is now in debt and may be subject to citizen review.
+Your orders for now: sit tight. Don't do anything stupid.
+Your son can still be saved.
+Your son. All that matters. Save him, and he will save you.
+You’re poison, Viktor.
+Yul-pyeong Oh
+[  ] 日本語
+[  ] 简体中文
+[ ] Deutsch
+[ ] English
+[ ] Español (Latinoamérica)
+[ ] Français
+[ ] Polski
+[ ] Português (Brasil)
+[ ] Русский
+[ ] Українська
+[---------------]
+[-------------]
+[-----------]
+[// STRATA SYSTEM - v1.2.0]
+[//STRATA COMMUNICATION SYSTEM]
+[DISCORD://JOIN]
+[ENTER] Push files
+[Establishing connection with host node T9-71]<cf>[Host node T9-7 link established]<cf>USER <V. Kaminskyi> Attempting login...<cf>USER <V. Kaminskyi> Error 09: password failed
+and awoke things that should have been left sleeping.  
+and that it most likely isn't natural.
+by UNEASY
+cassette inserted<cf>checking combability<cf>cassette read
+cassette inserted...<cf>checking combability...
+cassette inserted...<cf>checking combability...<cf>read and write permission granted<cf>reading();
+choose files to transfer
+digit four:<cf><cf>7
+digit one:<cf><cf>8
+digit two:<cf><cf>3
+g/cm^3 
+him.
+initiating...<cf>reading cassette...<cf>write permissions granted<cf>opening up register<cf>listing readable files
+loading system resources...
+or let them devour you.
+parking check<cf><cf>central hospital 12<cf><cf>11.10.1980 08:54:27
+proprietary software
+reading cassette<cf>saved data found<cf>start new found<cf>no further entries found
+Recording...
+seismic_decryptor.exe
+this case is only to be opened if met with an insurmountable emergency.<cf><cf>All crew members need to unanimously agree to open this case. Therefore each crew member has been assigned one digit at random.<cf><cf>May god help you.<cf><cf>-STRATA<cf><cf>digit three:<cf>5
+version 1.4.5
+waiting for readjustment...
+while the rest of us BURN IN FUCKING HELL DOWN HERE!
+{M}:{S}:{MS}
+…Navigator.
+…Viktor.
+--- INBOX STATUS ---
+Achtung!
+Bonjour
+Hello friend
+I hate you
+Ich liebe dich
+Sil vous plait

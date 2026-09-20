@@ -1,0 +1,6 @@
+{
+  "name": "Game Text Translator Studio (TXT / JSON / XLS)",
+  "description": "برنامج متكامل لترجمة وتعريب نصوص الألعاب بمختلف الصيغ TXT و JSON و XLS/XLSX مع حفظ وسوم المحركات والترجمة الذكية الفورية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
