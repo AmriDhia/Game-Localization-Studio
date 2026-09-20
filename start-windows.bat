@@ -39,20 +39,34 @@ if not exist "dist\" (
     echo [2/3] ملفات الواجهة جاهزة.
 )
 
-:: Start server
-echo [3/3] جاري تشغيل خادم الاستوديو محلياً...
+:: Start server in the background and open as a standalone desktop window
+echo [3/3] جاري تشغيل البرنامج كنافذة سطح مكتب مستقلة (Desktop Application)...
 echo.
 echo ========================================================
-echo   التطبيق يعمل الآن على: http://localhost:3000
-echo   سيتم فتح المتصفح تلقائياً...
-echo   (للإغلاق في أي وقت اضغط Ctrl + C في هذه النافذة)
+echo   جاري فتح البرنامج في نافذة مستقلة خاصة به (بدون متصفح)
+echo   يمكنك تصغير هذه الشاشة وترك البرنامج يعمل.
 echo ========================================================
 echo.
 
-:: Open default browser
-start http://localhost:3000
+:: Start the node server in background
+start "MOLE-Server" /B node dist/server.cjs
 
-:: Run the server
-npm run start
+:: Wait a moment for server to bind port
+timeout /t 2 /nobreak >nul
 
-pause
+:: Launch as a Standalone Desktop Application Window (No URL bar, No tabs, Native desktop frame)
+if exist "%ProgramFiles(x86)%\Microsoft\Edge\Application\msedge.exe" (
+    "%ProgramFiles(x86)%\Microsoft\Edge\Application\msedge.exe" --app=http://localhost:3000 --window-size=1400,900
+) else if exist "%ProgramFiles%\Microsoft\Edge\Application\msedge.exe" (
+    "%ProgramFiles%\Microsoft\Edge\Application\msedge.exe" --app=http://localhost:3000 --window-size=1400,900
+) else if exist "%ProgramFiles%\Google\Chrome\Application\chrome.exe" (
+    "%ProgramFiles%\Google\Chrome\Application\chrome.exe" --app=http://localhost:3000 --window-size=1400,900
+) else if exist "%ProgramFiles(x86)%\Google\Chrome\Application\chrome.exe" (
+    "%ProgramFiles(x86)%\Google\Chrome\Application\chrome.exe" --app=http://localhost:3000 --window-size=1400,900
+) else (
+    start http://localhost:3000
+)
+
+:: When desktop app window is closed, close background server
+taskkill /F /IM node.exe /FI "WINDOWTITLE eq MOLE-Server" >nul 2>&1
+exit /b 0
